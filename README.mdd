@@ -1,0 +1,34 @@
+# VisionAid – AI Assistance for the Visually Impaired
+
+Name: Kaleb Dixon
+Course: ITAI 2372
+Track: Conceptual Design Track
+
+## Project Description
+VisionAid is a conceptual AI-powered wearable system designed to assist visually impaired individuals in navigating everyday environments. The system uses computer vision, object detection, and optical character recognition (OCR) to identify objects, read text, and provide real-time audio feedback to the user.
+
+The goal is to improve independence and safety for visually impaired users by providing real-time environmental awareness.
+
+## How to Read the Documentation
+This repository contains the following files:
+
+Project_Proposal.pdf – Overview of the problem and proposed AI solution
+
+Solution_Plan.pdf – Detailed explanation of system architecture and AI technologies used
+
+Testing_Plan.pdf – Strategy for testing the system
+
+Presentation_Slides.pdf – Final presentation slides
+
+## Technologies (Conceptual)
+- Computer Vision
+- Object Detection Models (YOLO)
+- Optical Character Recognition (OCR)
+- Speech Synthesis
+- Wearable Camera Devices
+
+## External Resources
+OpenCV
+TensorFlow
+YOLO Object Detection
+Tesseract OCR
